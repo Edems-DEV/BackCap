@@ -1,0 +1,9 @@
+[submodule "BackCap_SERVER"]
+	path = BackCap_SERVER
+	url = https://github.com/Edems-DEV/BackCap_SERVER
+[submodule "BackCap_WEB"]
+	path = BackCap_WEB
+	url = https://github.com/Edems-DEV/BackCap_WEB
+[submodule "BackCap_DEAMON"]
+	path = BackCap_DEAMON
+	url = https://github.com/Edems-DEV/BackCap_DEAMON
