@@ -3,7 +3,6 @@
 ## Links
 
 🎨 [Figma](https://www.figma.com/file/cttIGL4CVt8KPoj63cxmig/%F0%9F%94%B4PGR---BackCap-(PUBLIC)?type=design&node-id=501-19196&t=PUmZR5UE2DPjh4H4-0)
-🎨 [Figma](<https://www.figma.com/file/cttIGL4CVt8KPoj63cxmig/%F0%9F%94%B4PGR---BackCap-(PUBLIC)?type=design&node-id=501-19196&t=PUmZR5UE2DPjh4H4-0>)
 
 🧮 [Database](https://dbdiagram.io/d/647a2f14722eb774944d0d47)
 
