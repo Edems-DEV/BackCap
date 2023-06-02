@@ -3,6 +3,7 @@
 ## Links
 
 🎨 [Figma](https://www.figma.com/file/cttIGL4CVt8KPoj63cxmig/%F0%9F%94%B4PGR---BackCap-(PUBLIC)?type=design&node-id=501-19196&t=PUmZR5UE2DPjh4H4-0)
+🎨 [Figma](<https://www.figma.com/file/cttIGL4CVt8KPoj63cxmig/%F0%9F%94%B4PGR---BackCap-(PUBLIC)?type=design&node-id=501-19196&t=PUmZR5UE2DPjh4H4-0>)
 
 🧮 [Database](https://dbdiagram.io/d/647a2f14722eb774944d0d47)
 
@@ -17,7 +18,7 @@
 ## Welcome
 
 to the BackCap repository, the main repo that links all things in one place. This project is divided into three parts: server, daemon and web.
-More information about a specific part can be found in its specific repo.
+More information about each specific part can be found in its repo.
 
 And don't forget to leave ⭐.
 
