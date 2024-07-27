@@ -21,7 +21,9 @@ More information about each specific part can be found in its repo.
 
 And don't forget to leave ⭐.
 
----
+## Setup
+Try it out with this simple one liner:
+- Powershell: `iwr -useb https://raw.githubusercontent.com/Edems-DEV/BackCap/main/setup.ps1 | iex`
 
 ## Preview
 
